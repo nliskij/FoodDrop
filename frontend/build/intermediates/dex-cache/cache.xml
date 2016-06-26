@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.2_90429962ca5617e5137c097971a018f0ef81d421/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_288c645cb7ff8b5fd82f513d3a64c68f8d2b9b86/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_142bfcd97df362ee701e1a225887a3a589553984/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_2c79fb4851dae68d57bd181cae73e16dbcfb0cbb/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b77ad36ac6ba00b1d3d934019439cc497afd8e29">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e0fa8c8b46447f3e1568e947c9c38d2040c2009f/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.2_57873a28b4c062a8bd9d03ba69602d70e63719e2/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_9c1fc0572d28764f31bb9b49b354a168d7c4b467/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.2_7fcafc222cbd08bef185e1bf3f1983003d97a615/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.2_51ed4d63b58b2c7870082021578e5b9b1a18f010/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.2_dfee91807aca8a1f71df3f38f265478e3afc3f7b/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/libs/httpmime-4.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="be736bf26b93feffa45bd2a06e96e641a6b51216">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.5.2_ab42a0b334c8cb1d0785d760d77e4b384f27956a/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.2_2d8630e713f0ecd9e4680d1f5016711082d0161b/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_2cae1dab12922b974c36b276ecaf9fb45cc9ebc1/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.2_9560f34875ee7c6e0b5f49ef4dcd3049952af419/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_8765e5254748f5be61762f4bdf22e999c1552729/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.2_ba477168d6fe667e1b912d4f877295de2210c418/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.2_79d94cf1edce34c1c027935ad8b851df85d366c5/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_d7db2b2dbd20c02dd6cccdc5a243dceb24e8fcf0/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.2_404b4ed458aaae9bc8a74619e933a076c97f6dbb/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.2_d97340e5a0ecc4ea33bb2c78b75d89bcea089528/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.2_d27b547f2b51ab68d8eb9f469b8ada6b124ae499/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.2_22ebac270c7b3602ba57c033c3433be232f4a211/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/libs/httpcore-4.4.4.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b31526a230871fbe285fbcbe2813f9c0839ae9b0">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.4.4_8e316b08dc486af9955449b1978ac387341dbddf/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/libs/commons-logging-1.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-logging-1.2_e94845d4ba4e47ead75ec3c9c2884ed225a70a5e/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.2_1557530205d5bd4a5e9668c4b679e54326db9ced/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.2_5de19a467647052ecf78251fd17881c17f1adc6b/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_5bad90524f334fbf64f4fb07874a0b07e17a57da/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.2_a02166c6684d3bdc9523179ec11d8a1c55cdddcd/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.2_94d250a7f069efe57548d52f55212d29372553c6/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.2_6dbc149eaa153d5cee026953f9842d8807f9772f/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_041b1c31a1b133b5cb51e355ae8f3e4194538e80/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="435d0273587233b693822bbd240b2d18438274b7">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9b19f1c08c95fc596949c35fc89ad8f65a45311c/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.2_75f0dcf3ca3ab1cdf831a8800de2af88a9f4a61e/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.2_e39119453921c071db3f9d69a19ee3967559846b/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_5fe7beb9319b3ff6a86aba75321395c4960ec85a/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/libs/fluent-hc-4.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="27c0ecfb509dca23e933bbd1f23cebaf2f9cc8c0">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/2/fluent-hc-4.5.2_d6e57cb061666b6374f522fa58c3a245ed9361da/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/libs/httpclient-4.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="848577c2062a62c1e8f0b08bd5e7f104be68361f">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.5.2_97de9dfc2c5b667005deb7d49c9c8242f0f4d7bd/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_24c693dcfec55bb3d590e0f5e2b96427a9afc7a9/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_a04da3b65c82c376c107b3fe3daf613647442875/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_1e498e3d935a732e0cad021f59a1c070b3548c74/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_6772f8ba238ca8d4400f29be3fba72010b4eaa02/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_a87d074b40814de54633b0523b62f1c9c9c96c71/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/libs/jna-4.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/2/jna-4.1.0_d7617d6ce50fe161f48ae02e17355e6921d8e7e6/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/libs/jna-platform-4.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/2/jna-platform-4.1.0_8a8d046068c4b27c7ad7da5cd639b4c8c970c2be/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.2_93351a8ee310a5c1c9deb5b11b5e2e5b2d40eb91/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_e6d9f725a378aead444ce01a5c9835463b5143ce/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.2_e3abc8028fbc55143ec8ef14a925fa8ddf629624/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.2_4f274ce853ed6c26c583a2925271ba1393b90b9f/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.2_0736f38aa348fa1b55eb76e5e751184ef90f6bf9/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/libs/commons-codec-1.9.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-codec-1.9_c4ca523c9894bbb5b39ea033db9d7ae5edb7c7d9/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/libs/httpclient-win-4.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1e8137fbea7baae82837f8779b23aa17602a539e">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-win-4.5.2_49a434e178ae0f2977e65cc70678d1d4546330bb/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.2_b79737ecbeecbae26c3e2e739bee106fb3ef9ce8/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_1db4ff4d5fdfdfbb094dd1d7fdb3f2bd360c8f59/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.2_a823505805692d299a45e694bb2cdb385eb4afb2/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_6710c8773b49076b6a967df697cea682954516d8/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_b5fd4d05b5b2477417799eb986d979984dfde6dd/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.2_575271e0538d0cd918edc785985b2800b0366c5f/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.2_d0922b3dad2d406233f3dd599b5fe0648913db2e/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/libs/httpclient-cache-4.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6a892abf7cbb8867a499147bc66415228b65bf8e">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-cache-4.5.2_c33a72aabfa43d577e77f90d46d613a5d24a87cb/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.2_860b5fe3a530ae30cfbea7b4059381670bc5d838/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.2_cfcf298fcc07e1348b831a5e69cae7e680b922ad/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_9d2154725145b333429d6d23407f2c9097b6b341/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_a620b323f56ad33861b0b3a9db0c5a3184ece087/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.2_b2173c5416834fed00e8ea989d0f94c98c32605f/classes.dex" />
+    </item>
+    <item
+        jar="/home/michael/aws/DropShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="/home/michael/aws/DropShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.2_0addbf9bf44a3fbd8d50673219404f1c460f9590/classes.dex" />
+    </item>
+
+</items>
